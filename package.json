@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/ws": "^8.18.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "@stomp/stompjs": "^7.1.1",
+    "ws": "^8.18.3"
+  }
+}
